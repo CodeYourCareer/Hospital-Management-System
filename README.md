@@ -31,6 +31,9 @@ A simple Java-based Hospital Management System that allows users to manage patie
 git clone https://github.com/CodeYourCareer/Hospital-Management-System.git
 cd Hospital-Management-System
 
+---
+
+
 Set up the MySQL database
 
 Create a database named hospital_db
@@ -47,10 +50,16 @@ Add it to your project classpath
 
 Compile and Run
 
+---
+
+
 javac -cp .;mysql-connector-j-9.6.0.jar HospitalManagementSystem/HospitalManagementSystem.java
 java -cp .;mysql-connector-j-9.6.0.jar HospitalManagementSystem.HospitalManagementSystem
 
-Usage Example
+
+---
+
+## Usage Example
 Driver Loaded Successfully.
 Database Connected Successfully.
 
